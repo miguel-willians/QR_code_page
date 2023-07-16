@@ -32,7 +32,7 @@ Mobile Screenshot:
 ## Links
 
 - Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://github.com/miguel-willians/QR_code_page)
+- Live Site URL: [Live site URL here](https://miguel-willians.github.io/QR_code_page/)
 
 
 
