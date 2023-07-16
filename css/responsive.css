@@ -1,0 +1,17 @@
+@media (max-width: 1120px){
+    
+    .box{ 
+        width: 270px;
+        height: 450px; 
+        margin: auto;
+    }
+    header{
+        justify-content: center;
+    }
+
+    .qr{
+        width: 150px;
+        height: 150px;
+    }
+    
+}
